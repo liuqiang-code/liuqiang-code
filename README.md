@@ -1,7 +1,6 @@
 - 👋 Hi, I’m bigstrong, I'm glad you can see me
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning java and python
-- 📫 my mail is lz673253@163.com
+
+[![BigStrong's GitHub stats](https://github-readme-stats.vercel.app/api?username=liuqiang-code&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 liuqiang-code/liuqiang-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
